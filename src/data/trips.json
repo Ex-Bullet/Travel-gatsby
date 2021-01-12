@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/italia.jpg",
+        "alt": "Italia",
+        "name": "Italie",
+        "button": "Voir les destinations"
+    },
+    {
+        "img": "../assets/images/kapadokya.jpg",
+        "alt": "Kapadokya",
+        "name": "Kapadokya",
+        "button": "Voir les destinations"
+    },
+    {
+        "img": "../assets/images/paris.jpg",
+        "alt": "Paris",
+        "name": "Paris",
+        "button": "Voir les destinations"
+    },
+    {
+        "img": "../assets/images/mountain.jpg",
+        "alt": "Mountain",
+        "name": "Montagne",
+        "button": "Voir les destinations"
+    }
+]
