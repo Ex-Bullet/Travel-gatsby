@@ -18,9 +18,9 @@
         "button": "Voir les destinations"
     },
     {
-        "img": "../assets/images/mountain.jpg",
-        "alt": "Mountain",
-        "name": "Montagne",
+        "img": "../assets/images/island.jpg",
+        "alt": "Nouvelle-Zélande",
+        "name": "Nouvelle-Zélande",
         "button": "Voir les destinations"
     }
 ]

@@ -8,7 +8,7 @@ import { Button } from "./Button"
 const Header = () => {
   return (
     <Nav>
-      <NavLink to="/">EXPLOREZY</NavLink>
+      <NavLink to="/">EXPLORIZY</NavLink>
       <Bars />
       <NavMenu>
         {menuData.map((item, index) => (
@@ -18,7 +18,7 @@ const Header = () => {
         ))}
       </NavMenu>
       <NavBtn>
-        <Button primary="true" round="true" to="/trips">Book a Flight</Button>
+        <Button primary="true" round="true" to="/trips">Réserver un vol</Button>
       </NavBtn>
     </Nav>
   )
