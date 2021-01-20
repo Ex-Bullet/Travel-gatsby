@@ -41,7 +41,7 @@ const Testimonials = () => {
               `}
             />
             <h3>Sean michael</h3>
-            <p> "The greatest of all time</p>
+            <p>"The greatest of all time"</p>
           </Testimonial>
           <Testimonial>
             <FaRegLightbulb
@@ -52,7 +52,7 @@ const Testimonials = () => {
               `}
             />
             <h3>Eva Huya</h3>
-            <p>"It was food</p>
+            <p>"It was food"</p>
           </Testimonial>
         </ColumnOne>
         <ColumnTwo>
@@ -68,11 +68,11 @@ const Testimonials = () => {
 export default Testimonials
 
 const TestimonialsContainer = styled.div`
-    width: 100%;
-    background: #fcfcfc;
-    color: #000;
-    padding: 5rem calc((100vw - 1300px) / 2);
-    height: 100%;
+  width: 100%;
+  background: #fcfcfc;
+  color: #000;
+  padding: 5rem calc((100vw - 1300px) / 2);
+  height: 100%;
 `
 
 const TopLine = styled.p`
