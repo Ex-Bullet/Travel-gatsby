@@ -8,7 +8,12 @@ const Footer = () => {
       <FooterLinksWrapper>
         <FooterDesc>
           <h1>Explorizy</h1>
-          <p>We strive to create best blabla blabla blabla blabla blabla</p>
+          <p>
+            Avec plus de 50 ans d’expertise, Explorizy, numéro 1 mondial du
+            voyage, conçoit pour vous une offre complète et adaptée à toutes vos
+            envies de vacances. Les possibilités qui s’offrent à vous sont
+            nombreuses !
+          </p>
         </FooterDesc>
         <FooterLinkItems>
           <FooterLinkTitle>Contactez nous</FooterLinkTitle>
@@ -22,8 +27,6 @@ const Footer = () => {
         <FooterLinkItems>
           <FooterLinkTitle>Videos</FooterLinkTitle>
           <FooterLink to="/">Agences</FooterLink>
-          <FooterLink to="/">Influenceurs</FooterLink>
-          <FooterLink to="/">Influenceurs</FooterLink>
           <FooterLink to="/">Influenceurs</FooterLink>
         </FooterLinkItems>
         <FooterLinkItems>
@@ -43,7 +46,7 @@ export default Footer
 const FooterContainer = styled.div`
   padding: 5rem calc((100vw - 1100px) / 2);
   display: grid;
-  grid-template-columns: repeat (2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   color: #000;
   background: #fafafb;
 `

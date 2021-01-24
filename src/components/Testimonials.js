@@ -29,7 +29,7 @@ const Testimonials = () => {
   return (
     <TestimonialsContainer>
       <TopLine>Testimonials</TopLine>
-      <Description>What people say</Description>
+      <Description>Ce que les gens disent</Description>
       <ContentWrapper>
         <ColumnOne>
           <Testimonial>
@@ -41,7 +41,7 @@ const Testimonials = () => {
               `}
             />
             <h3>Sean michael</h3>
-            <p>"The greatest of all time"</p>
+            <p>"Les meilleur de tout les temps"</p>
           </Testimonial>
           <Testimonial>
             <FaRegLightbulb
@@ -52,7 +52,7 @@ const Testimonials = () => {
               `}
             />
             <h3>Eva Huya</h3>
-            <p>"It was food"</p>
+            <p>"Très bon voyage"</p>
           </Testimonial>
         </ColumnOne>
         <ColumnTwo>

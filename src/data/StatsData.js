@@ -12,8 +12,8 @@ export const StatsData = [
         `}
       />
     ),
-    title: "Over 100 Destinations",
-    desc: "Travel to over 100 unique places",
+    title: "Plus de 100 destinations",
+    desc: "Voyager dans plus de 100 lieux uniques",
   },
   {
     icon: (
@@ -23,8 +23,8 @@ export const StatsData = [
         `}
       />
     ),
-    title: "1 million trips made",
-    desc: "Over 1 million trips completed last year",
+    title: "1 million de voyages effectués",
+    desc: "Plus d'un million de voyages effectués l'année dernière",
   },
   {
     icon: (
@@ -34,8 +34,8 @@ export const StatsData = [
         `}
       />
     ),
-    title: "Fasted support",
-    desc: "Travel to over 100 unique places",
+    title: "Un support rapide",
+    desc: "Contactez le support pour obtenir de l'aide",
   },
   {
     icon: (
@@ -45,7 +45,7 @@ export const StatsData = [
         `}
       />
     ),
-    title: "Best deal",
-    desc: "Travel to over 100 unique places",
+    title: "La meilleure affaire",
+    desc: "Chaque jours, découvrez des deals incroyables",
   },
 ]
