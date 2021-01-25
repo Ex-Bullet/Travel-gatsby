@@ -28,21 +28,10 @@ const Testimonials = () => {
   `)
   return (
     <TestimonialsContainer>
-      <TopLine>Testimonials</TopLine>
-      <Description>Ce que les gens disent</Description>
+      <TopLine>Nos retours</TopLine>
+      <Description>Avis clients</Description>
       <ContentWrapper>
         <ColumnOne>
-          <Testimonial>
-            <IoMdCheckmarkCircleOutline
-              css={`
-                color: #3fffa8;
-                font-size: 2rem;
-                margin-bottom: 1rem;
-              `}
-            />
-            <h3>Sean michael</h3>
-            <p>"Les meilleur de tout les temps"</p>
-          </Testimonial>
           <Testimonial>
             <FaRegLightbulb
               css={`
@@ -52,7 +41,20 @@ const Testimonials = () => {
               `}
             />
             <h3>Eva Huya</h3>
-            <p>"Très bon voyage"</p>
+            <p>
+              "Hébergement, restauration, équipe d’animation et personnel au top!"
+            </p>
+          </Testimonial>
+          <Testimonial>
+            <IoMdCheckmarkCircleOutline
+              css={`
+                color: #3fffa8;
+                font-size: 2rem;
+                margin-bottom: 1rem;
+              `}
+            />
+            <h3>Sean michael</h3>
+            <p>"Super séjour, hâte de voyager dans un autre pays"</p>
           </Testimonial>
         </ColumnOne>
         <ColumnTwo>

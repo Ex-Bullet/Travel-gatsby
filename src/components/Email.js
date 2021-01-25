@@ -36,7 +36,7 @@ const Email = () => {
               }
               `}
             >
-              Inscrire
+              S'inscrire
             </Button>
           </FormWrap>
         </form>

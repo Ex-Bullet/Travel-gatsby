@@ -7,4 +7,10 @@ export const GlobalStyle = createGlobalStyle`
         padding: 0;
         box-sizing: border-box;
     }
+    h1,h2,h3,h4 {
+        margin-bottom: 1rem;
+    }
+    p {
+        line-height: 1.5rem;
+    }
 `
